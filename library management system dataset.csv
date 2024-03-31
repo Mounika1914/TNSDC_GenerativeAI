@@ -1,0 +1,21 @@
+book_id,title,author,genre,publisher,published_year,ISBN,available_copies
+1,To Kill a Mockingbird,Harper Lee,Fiction,HarperCollins,1960,9.78006E+12,10
+2,1984,George Orwell,Dystopian Fiction,Penguin Books,1949,9.78045E+12,5
+3,Pride and Prejudice,Jane Austen,Romance Fiction,Penguin Classics,1813,9.78014E+12,8
+4,The Great Gatsby,F. Scott Fitzgerald,Novel,Scribner,1925,9.78074E+12,7
+5,Harry Potter and the Philosopher's Stone,J.K. Rowling,Fantasy,Bloomsbury,1997,9.78075E+12,12
+6,The Catcher in the Rye,J.D. Salinger,Coming-of-age Fiction, Brown and Company,1951,9.78032E+12,6
+7,To the Lighthouse,Virginia Woolf,Modernist Literature,Hogarth Press,1927,9.78016E+12,4
+8,Frankenstein,Mary Shelley,Horror Fiction, Hughes,1818,9.78049E+12,3
+9,The Hobbit,J.R.R. Tolkien,Fantasy,Allen & Unwin,1937,9.78026E+12,9
+10,The Lord of the Rings,J.R.R. Tolkien,Fantasy,Allen & Unwin,1954,9.78026E+12,10
+11,The Da Vinci Code,Dan Brown,Conspiracy Fiction,Random House,2003,9.78031E+12,7
+12,A Game of Thrones,George R.R. Martin,Fantasy, Bantam Spectra,1996,9.78055E+12,6
+13,The Alchemist,Paulo Coelho,Allegorical Fiction,Rocco,1988,9.78006E+12,8
+14,The Picture of Dorian Gray,Oscar Wilde,Philosophical Fiction,Ward,1890,9.78049E+12,5
+15,Brave New World,Aldous Huxley,Dystopian Fiction,Chatto & Windus,1932,9.78006E+12,6
+16,The Hunger Games,Suzanne Collins,Science Fiction,District 12,2008,9.78044E+12,10
+17,The Road,Cormac McCarthy,Post-apocalyptic Fiction,Knopf,2006,9.78031E+12,4
+18,The Grapes of Wrath,John Steinbeck,Realistic Fiction,Viking Press,1939,9.78014E+12,3
+19,The Kite Runner,Khaled Hosseini,Historical Fiction,Riverhead Books,2003,9.78159E+12,7
+20,The Bell Jar,Sylvia Plath,Semi-autobiographical Fiction,Heinemann,1963,9.78006E+12,5
